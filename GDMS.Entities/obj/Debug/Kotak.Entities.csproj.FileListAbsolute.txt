@@ -1,0 +1,299 @@
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csprojAssemblyReference.cache
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.dll
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.pdb
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.xml
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+D:\kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+D:\kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+D:\kotak\Kotak.API\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+D:\kotak\Kotak.API\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.dll
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.xml
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+G:\New folder\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\New folder\kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+G:\New folder\kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+G:\New folder\kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+G:\New folder\kotak\Kotak.API\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+G:\New folder\kotak\Kotak.API\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Dapper.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.dll
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.pdb
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.xml
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+E:\New folder\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\New folder\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+E:\New folder\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+E:\New folder\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+E:\New folder\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+E:\New folder\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Dapper.dll
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Dapper.pdb
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Dapper.xml
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AVANSE\AVANSE-API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\AVANSE\AVANSE-API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+D:\AVANSE\AVANSE-API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+D:\AVANSE\AVANSE-API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+D:\AVANSE\AVANSE-API\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+D:\AVANSE\AVANSE-API\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Dapper.dll
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Dapper.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Dapper.xml
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AvanseNewUpdated\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\AvanseNewUpdated\Backend\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+D:\AvanseNewUpdated\Backend\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+D:\AvanseNewUpdated\Backend\GDMS.Entities\obj\Debug\Kotak.En.2F508687.Up2Date
+D:\AvanseNewUpdated\Backend\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+D:\AvanseNewUpdated\Backend\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Dapper.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Dapper.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Dapper.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Dapper.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Dapper.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Dapper.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CopyComplete
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.En.2F508687.Up2Date
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Dapper.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\obj\Debug\Kotak.En.2F508687.Up2Date
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Dapper.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Dapper.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Dapper.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\obj\Debug\Kotak.En.2F508687.Up2Date
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Dapper.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Dapper.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Dapper.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\obj\Debug\Kotak.En.2F508687.Up2Date
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Dapper.dll
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Dapper.xml
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\OCBC\OCBC_API\GDMS.Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\OCBC\OCBC_API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+C:\OCBC\OCBC_API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+C:\OCBC\OCBC_API\GDMS.Entities\obj\Debug\Kotak.En.2F508687.Up2Date
+C:\OCBC\OCBC_API\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+C:\OCBC\OCBC_API\GDMS.Entities\obj\Debug\GDMS.Entities.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\GDMS.Entities.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\GDMS.Entities.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Dapper.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Dapper.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.AssemblyReference.cache
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\obj\Debug\Kotak.Entities.csproj.CoreCompileInputs.cache
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\obj\Debug\Kotak.En.2F508687.Up2Date
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\obj\Debug\GDMS.Entities.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Entities\obj\Debug\GDMS.Entities.pdb

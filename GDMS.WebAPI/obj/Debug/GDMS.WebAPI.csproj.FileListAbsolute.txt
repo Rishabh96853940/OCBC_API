@@ -1,0 +1,341 @@
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\ApplicationInsights.config
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\AWSSDK.Core.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\AWSSDK.S3.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Common.Logging.Core.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Common.Logging.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Ionic.Zip.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.barcodes.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.forms.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.html2pdf.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.io.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.kernel.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.layout.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.pdfa.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.sign.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.svg.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itextsharp.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\PdfSharp.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Cors.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Helpers.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Mvc.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Optimization.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Razor.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Unity.Abstractions.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Unity.Container.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Vintasoft.Imaging.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Vintasoft.Imaging.Ocr.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Vintasoft.Imaging.Ocr.Tesseract.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Vintasoft.Imaging.Pdf.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Vintasoft.Imaging.Pdf.Ocr.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\WebActivatorEx.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\WebGrease.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Dapper.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\AWSSDK.Core.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\AWSSDK.S3.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Common.Logging.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Common.Logging.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Common.Logging.Core.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.barcodes.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.forms.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.html2pdf.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.io.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.kernel.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.layout.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.pdfa.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.sign.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itext.svg.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\itextsharp.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\PdfSharp.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Helpers.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Mvc.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Optimization.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.Razor.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Unity.Container.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Dapper.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\Dapper.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.csproj.AssemblyReference.cache
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.csproj.CopyComplete
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\ApplicationInsights.config
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\AWSSDK.Core.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\AWSSDK.S3.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Common.Logging.Core.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Common.Logging.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\GDMS.Entities.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Ionic.Zip.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.barcodes.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.forms.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.html2pdf.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.io.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.kernel.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.layout.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.pdfa.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.sign.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.svg.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itextsharp.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\PdfSharp.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Cors.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Helpers.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Mvc.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Optimization.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Razor.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Unity.Abstractions.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Unity.Container.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\WebActivatorEx.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\WebGrease.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Dapper.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\GDMS.Entities.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\AWSSDK.Core.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\AWSSDK.S3.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Common.Logging.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Common.Logging.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Common.Logging.Core.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.barcodes.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.forms.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.html2pdf.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.io.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.kernel.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.layout.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.pdfa.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.sign.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itext.svg.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\itextsharp.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\PdfSharp.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Helpers.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Mvc.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Optimization.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.Razor.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Unity.Container.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Dapper.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\Dapper.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.csprojAssemblyReference.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.csproj.CopyComplete
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\ApplicationInsights.config
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\AWSSDK.Core.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\AWSSDK.S3.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Common.Logging.Core.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Common.Logging.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\GDMS.Entities.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Ionic.Zip.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.barcodes.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.forms.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.html2pdf.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.io.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.kernel.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.layout.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.pdfa.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.sign.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.svg.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itextsharp.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\PdfSharp.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Cors.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Helpers.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Mvc.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Optimization.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Razor.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Unity.Abstractions.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Unity.Container.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\WebActivatorEx.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\WebGrease.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Dapper.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\GDMS.Entities.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\GDMS.Repository.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\AWSSDK.Core.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\AWSSDK.S3.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Common.Logging.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Common.Logging.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Common.Logging.Core.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.barcodes.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.forms.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.html2pdf.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.io.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.kernel.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.layout.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.pdfa.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.sign.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itext.svg.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\itextsharp.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\PdfSharp.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Helpers.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Mvc.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Optimization.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.Razor.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Unity.Container.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Dapper.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\Dapper.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.csprojAssemblyReference.cache
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.csproj.CopyComplete
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.WebAPI\obj\Debug\GDMS.WebAPI.pdb

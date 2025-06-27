@@ -1,0 +1,513 @@
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csprojAssemblyReference.cache
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\kotak\Kotak.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+D:\kotak\Kotak.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\kotak\Kotak.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\itextsharp.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.xml
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\itextsharp.xml
+G:\New folder\kotak\Kotak.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+G:\New folder\kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+G:\New folder\kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+G:\New folder\kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+G:\New folder\kotak\Kotak.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+G:\New folder\kotak\Kotak.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\itextsharp.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\Dapper.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\itextsharp.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+G:\sridemax\kotak\Kotak.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.xml
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.xml
+E:\New folder\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\New folder\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+E:\New folder\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+E:\New folder\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+E:\New folder\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+E:\New folder\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\AVANSE\AVANSE-API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\AVANSE\AVANSE-API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\AVANSE\AVANSE-API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\AVANSE\AVANSE-API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+D:\AVANSE\AVANSE-API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\Dapper.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\Dapper.xml
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\AvanseNewUpdated\Backend\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\AvanseNewUpdated\Backend\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\AvanseNewUpdated\Backend\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\AvanseNewUpdated\Backend\GDMS.Repository\obj\Debug\Kotak.Re.717586D5.Up2Date
+D:\AvanseNewUpdated\Backend\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\Dapper.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\Dapper.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\AVANSE-BKP\Backend (1)\Backend\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Aavanse\API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Aavanse\API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Aavanse\API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\Aavanse\API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\Aavanse\API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Aavanse\API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Aavanse\API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Aavanse\API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Aavanse\API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Aavanse\API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Aavanse\API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Aavanse\API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Aavanse\API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\Aavanse\API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\Aavanse\API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\Aavanse\API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\Aavanse\API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Aavanse\API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Aavanse\API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Aavanse\API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Aavanse\API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\Aavanse\API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Aavanse\API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\Aavanse\API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\Aavanse\API\GDMS.Repository\obj\Debug\Kotak.Re.717586D5.Up2Date
+D:\Aavanse\API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Aavanse\API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CopyComplete
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Avanse_19Jan\API (2)\API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\Ayush_av_updaded code\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Ayush_av_updaded code\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\Ayush_av_updaded code\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\Ayush_av_updaded code\GDMS.Repository\obj\Debug\Kotak.Re.717586D5.Up2Date
+D:\Ayush_av_updaded code\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Ayush_av_updaded code\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Re.717586D5.Up2Date
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\Dapper.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\itextsharp.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\obj\Debug\Kotak.Re.717586D5.Up2Date
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\Dapper.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\itextsharp.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\Dapper.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\Dapper.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\itextsharp.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\obj\Debug\Kotak.Re.717586D5.Up2Date
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\Dapper.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\Dapper.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\obj\Debug\Kotak.Re.717586D5.Up2Date
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\OCBC Main\API\OCBC_API (1)\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\Dapper.dll
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\itextsharp.dll
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\Dapper.pdb
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\Dapper.xml
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\itextsharp.xml
+C:\OCBC\OCBC_API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\OCBC\OCBC_API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+C:\OCBC\OCBC_API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+C:\OCBC\OCBC_API\GDMS.Repository\obj\Debug\Kotak.Re.717586D5.Up2Date
+C:\OCBC\OCBC_API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+C:\OCBC\OCBC_API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.AssemblyReference.cache
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\obj\Debug\Kotak.Repository.csproj.CoreCompileInputs.cache
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\obj\Debug\Kotak.Re.717586D5.Up2Date
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\OCBC\OCBC_API\OCBC_API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb

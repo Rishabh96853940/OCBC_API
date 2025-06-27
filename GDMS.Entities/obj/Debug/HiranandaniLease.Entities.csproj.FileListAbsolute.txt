@@ -1,0 +1,16 @@
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\HiranandaniLease.Entities.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\HiranandaniLease.Entities.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\obj\Debug\HiranandaniLease.Entities.csprojResolveAssemblyReference.cache
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\obj\Debug\HiranandaniLease.Entities.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\obj\Debug\HiranandaniLease.Entities.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\obj\Debug\HiranandaniLease.Entities.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Dapper.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Dapper.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Dapper.xml
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Microsoft.Practices.Unity.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Microsoft.Practices.Unity.xml
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml

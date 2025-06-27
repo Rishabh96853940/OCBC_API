@@ -1,0 +1,1232 @@
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\ApplicationInsights.config
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\AWSSDK.Core.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\AWSSDK.S3.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Common.Logging.Core.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Common.Logging.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\GDMS.Entities.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\GDMS.Repository.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Ionic.Zip.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.barcodes.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.forms.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.html2pdf.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.io.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.kernel.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.layout.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.pdfa.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.sign.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.svg.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itextsharp.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\PdfSharp.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Cors.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Helpers.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Http.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Mvc.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Optimization.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Razor.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.WebPages.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Unity.Abstractions.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Unity.Container.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\WebActivatorEx.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\WebGrease.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Dapper.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\GDMS.Entities.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\GDMS.Repository.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\AWSSDK.Core.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\AWSSDK.S3.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Common.Logging.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Common.Logging.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Common.Logging.Core.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.barcodes.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.forms.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.html2pdf.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.io.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.kernel.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.layout.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.pdfa.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.sign.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itext.svg.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\itextsharp.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\PdfSharp.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Http.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Helpers.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Mvc.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Optimization.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.Razor.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.WebPages.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Unity.Container.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Dapper.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\Dapper.xml
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csprojAssemblyReference.cache
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CopyComplete
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\ApplicationInsights.config
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Ionic.Zip.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.io.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Cors.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\WebActivatorEx.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\WebGrease.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Dapper.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.io.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Dapper.pdb
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\Dapper.xml
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+E:\New folder\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+E:\New folder\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CopyComplete
+E:\New folder\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+E:\New folder\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\ApplicationInsights.config
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Ionic.Zip.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.io.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Cors.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\WebActivatorEx.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\WebGrease.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Dapper.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.io.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Dapper.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\Dapper.xml
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CopyComplete
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\ApplicationInsights.config
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Ionic.Zip.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.io.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Cors.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\WebActivatorEx.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\WebGrease.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Dapper.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.io.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Dapper.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\Dapper.xml
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CopyComplete
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\ApplicationInsights.config
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\AWSSDK.Core.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\AWSSDK.S3.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Common.Logging.Core.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Common.Logging.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\GDMS.Entities.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\GDMS.Repository.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Ionic.Zip.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.barcodes.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.forms.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.html2pdf.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.io.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.kernel.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.layout.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.pdfa.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.sign.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.svg.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itextsharp.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\PdfSharp.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Cors.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Helpers.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Http.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Mvc.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Optimization.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Razor.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.WebPages.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Unity.Abstractions.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Unity.Container.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\WebActivatorEx.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\WebGrease.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Dapper.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\GDMS.Entities.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\GDMS.Repository.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\AWSSDK.Core.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\AWSSDK.S3.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Common.Logging.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Common.Logging.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Common.Logging.Core.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.barcodes.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.forms.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.html2pdf.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.io.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.kernel.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.layout.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.pdfa.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.sign.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itext.svg.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\itextsharp.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\PdfSharp.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Http.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Helpers.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Mvc.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Optimization.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.Razor.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.WebPages.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Unity.Container.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Dapper.pdb
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\Dapper.xml
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CopyComplete
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+D:\AVANSE\AVANSE-API\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\ApplicationInsights.config
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\AWSSDK.Core.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\AWSSDK.S3.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Common.Logging.Core.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Common.Logging.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\GDMS.Entities.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\GDMS.Repository.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Ionic.Zip.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.barcodes.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.forms.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.html2pdf.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.io.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.kernel.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.layout.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.pdfa.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.sign.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.svg.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itextsharp.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\PdfSharp.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Cors.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Helpers.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Http.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Mvc.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Optimization.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Razor.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.WebPages.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Unity.Abstractions.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Unity.Container.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\WebActivatorEx.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\WebGrease.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Dapper.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\GDMS.Entities.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\GDMS.Repository.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\AWSSDK.Core.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\AWSSDK.S3.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Common.Logging.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Common.Logging.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Common.Logging.Core.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.barcodes.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.forms.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.html2pdf.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.io.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.kernel.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.layout.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.pdfa.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.sign.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itext.svg.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\itextsharp.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\PdfSharp.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Http.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Helpers.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Mvc.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Optimization.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.Razor.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.WebPages.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Unity.Container.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Dapper.pdb
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\Dapper.xml
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\obj\Release\Kotak.We.45FFDC90.Up2Date
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+D:\AvanseNewUpdated\Backend\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\ApplicationInsights.config
+D:\Aavanse\API\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+D:\Aavanse\API\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\AWSSDK.Core.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\AWSSDK.S3.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Common.Logging.Core.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Common.Logging.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\GDMS.Entities.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\GDMS.Repository.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Ionic.Zip.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.barcodes.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.forms.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.html2pdf.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.io.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.kernel.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.layout.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.pdfa.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.sign.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.svg.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\itextsharp.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\PdfSharp.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Cors.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Helpers.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Http.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Mvc.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Optimization.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Razor.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.WebPages.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Unity.Abstractions.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Unity.Container.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\WebActivatorEx.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\WebGrease.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\Dapper.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\GDMS.Entities.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\GDMS.Repository.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\AWSSDK.Core.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\AWSSDK.S3.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Common.Logging.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\Common.Logging.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\Common.Logging.Core.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.barcodes.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.forms.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.html2pdf.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.io.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.kernel.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.layout.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.pdfa.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.sign.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itext.svg.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\itextsharp.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\PdfSharp.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Http.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Helpers.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Mvc.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Optimization.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.Razor.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.WebPages.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\Unity.Container.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\Dapper.pdb
+D:\Aavanse\API\GDMS.WebAPI\bin\Dapper.xml
+D:\Aavanse\API\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+D:\Aavanse\API\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+D:\Aavanse\API\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+D:\Aavanse\API\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+D:\Aavanse\API\GDMS.WebAPI\obj\Release\Kotak.We.45FFDC90.Up2Date
+D:\Aavanse\API\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+D:\Aavanse\API\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\ApplicationInsights.config
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\AWSSDK.Core.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\AWSSDK.S3.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Common.Logging.Core.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Common.Logging.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\GDMS.Entities.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\GDMS.Repository.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Ionic.Zip.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.barcodes.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.forms.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.html2pdf.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.io.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.kernel.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.layout.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.pdfa.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.sign.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.svg.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itextsharp.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\PdfSharp.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Cors.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Helpers.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Http.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Mvc.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Optimization.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Razor.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.WebPages.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Unity.Abstractions.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Unity.Container.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\WebActivatorEx.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\WebGrease.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Dapper.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\GDMS.Entities.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\GDMS.Repository.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\AWSSDK.Core.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\AWSSDK.S3.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Common.Logging.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Common.Logging.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Common.Logging.Core.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.barcodes.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.forms.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.html2pdf.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.io.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.kernel.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.layout.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.pdfa.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.sign.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itext.svg.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\itextsharp.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\PdfSharp.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Http.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Helpers.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Mvc.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Optimization.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.Razor.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.WebPages.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Unity.Container.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Dapper.pdb
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\Dapper.xml
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+D:\Ayush_av_updaded code\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+D:\Ayush_av_updaded code\GDMS.WebAPI\obj\Release\Kotak.We.45FFDC90.Up2Date
+D:\Ayush_av_updaded code\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+D:\Ayush_av_updaded code\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\ApplicationInsights.config
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Ionic.Zip.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.io.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Cors.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\WebActivatorEx.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\WebGrease.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Dapper.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.io.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Dapper.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\Dapper.xml
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.We.45FFDC90.Up2Date
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+C:\Application\Avence\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\ApplicationInsights.config
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Ionic.Zip.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.io.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Cors.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\WebActivatorEx.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\WebGrease.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Dapper.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Entities.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\GDMS.Repository.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.Core.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\AWSSDK.S3.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Common.Logging.Core.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.barcodes.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.forms.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.html2pdf.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.io.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.kernel.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.layout.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.pdfa.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.sign.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itext.svg.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\itextsharp.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Helpers.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Mvc.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Optimization.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.Razor.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Unity.Container.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Dapper.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\Dapper.xml
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\obj\Release\Kotak.We.45FFDC90.Up2Date
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\ApplicationInsights.config
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\GDMS.WebAPI.dll.config
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\GDMS.WebAPI.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\GDMS.WebAPI.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\AWSSDK.Core.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\AWSSDK.S3.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\BouncyCastle.Crypto.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Common.Logging.Core.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Common.Logging.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\GDMS.Entities.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\GDMS.Repository.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Ionic.Zip.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.barcodes.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.forms.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.html2pdf.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.io.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.kernel.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.layout.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.pdfa.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.sign.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.styledxmlparser.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.svg.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itextsharp.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\PdfSharp.Charting.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\PdfSharp.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Cors.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Http.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Razor.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Unity.Abstractions.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Unity.Container.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\WebActivatorEx.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\WebGrease.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Dapper.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\GDMS.Entities.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\GDMS.Repository.Interfaces.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\GDMS.Repository.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\AWSSDK.Core.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\AWSSDK.Core.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\AWSSDK.S3.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\AWSSDK.S3.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\BouncyCastle.Crypto.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Common.Logging.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Common.Logging.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Common.Logging.Core.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Common.Logging.Core.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.barcodes.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.forms.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.html2pdf.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.io.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.kernel.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.layout.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.pdfa.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.sign.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.styledxmlparser.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itext.svg.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\itextsharp.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\PdfSharp.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\PdfSharp.Charting.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Http.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.Razor.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Unity.Abstractions.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Unity.Container.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Dapper.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\Dapper.xml
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\de\PdfSharp.resources.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.AssemblyReference.cache
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\obj\Release\Kotak.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\obj\Release\Kotak.We.45FFDC90.Up2Date
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\obj\Release\GDMS.WebAPI.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.WebAPI\obj\Release\GDMS.WebAPI.pdb

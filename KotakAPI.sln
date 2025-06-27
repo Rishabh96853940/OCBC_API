@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kotak.Entities", "GDMS.Entities\Kotak.Entities.csproj", "{D8F63E7C-765B-43B0-9E9E-9174A5EF440F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kotak.Repository", "GDMS.Repository\Kotak.Repository.csproj", "{F7372A94-0A60-47B1-BC9A-ADE1FED27DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kotak.Repository.Interfaces", "GDMS.Repository.Interfaces\Kotak.Repository.Interfaces.csproj", "{A08229FC-5DF9-4221-BE3C-1019DD39BC48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kotak.WebAPI", "GDMS.WebAPI\Kotak.WebAPI.csproj", "{FE5E504C-0F3B-450E-977D-1544A5417143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F63E7C-765B-43B0-9E9E-9174A5EF440F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F63E7C-765B-43B0-9E9E-9174A5EF440F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F63E7C-765B-43B0-9E9E-9174A5EF440F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F63E7C-765B-43B0-9E9E-9174A5EF440F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7372A94-0A60-47B1-BC9A-ADE1FED27DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7372A94-0A60-47B1-BC9A-ADE1FED27DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7372A94-0A60-47B1-BC9A-ADE1FED27DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7372A94-0A60-47B1-BC9A-ADE1FED27DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08229FC-5DF9-4221-BE3C-1019DD39BC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08229FC-5DF9-4221-BE3C-1019DD39BC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08229FC-5DF9-4221-BE3C-1019DD39BC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08229FC-5DF9-4221-BE3C-1019DD39BC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5E504C-0F3B-450E-977D-1544A5417143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5E504C-0F3B-450E-977D-1544A5417143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5E504C-0F3B-450E-977D-1544A5417143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5E504C-0F3B-450E-977D-1544A5417143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+		SolutionGuid = {DBCC7092-F97F-40E4-A78F-D49D4F8A2C1B}
+	EndGlobalSection
+EndGlobal

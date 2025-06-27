@@ -1,0 +1,66 @@
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csprojAssemblyReference.cache
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\Kotak.API - Kotak\Kotak.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+E:\New folder\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+E:\New folder\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+E:\New folder\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+E:\New folder\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+E:\New folder\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\Avance30\AvanceBackend\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+E:\SMFG\AVANSE BACKEND\GDMS.Entities (4)\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\AVANSE\AVANSE-API\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+D:\AVANSE\AVANSE-API\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\AVANSE\AVANSE-API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\AVANSE\AVANSE-API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\AvanseNewUpdated\Backend\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+D:\AvanseNewUpdated\Backend\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\AvanseNewUpdated\Backend\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\AvanseNewUpdated\Backend\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\Aavanse\API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\Aavanse\API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\Aavanse\API\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+D:\Aavanse\API\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Aavanse\API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\Aavanse\API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\Ayush_av_updaded code\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\Ayush_av_updaded code\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\Ayush_av_updaded code\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+D:\Ayush_av_updaded code\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Ayush_av_updaded code\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\Ayush_av_updaded code\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\Avence\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Application\Avence\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Application\Avence\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+C:\Application\Avence\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+C:\Application\Avence\API\GDMS.Entities\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository.Interfaces\obj\Release\Kotak.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+C:\Users\amars\OneDrive\Desktop\Avanse\AvanseAPI\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb

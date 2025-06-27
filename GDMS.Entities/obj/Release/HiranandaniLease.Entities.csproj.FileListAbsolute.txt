@@ -1,0 +1,16 @@
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\HiranandaniLease.Entities.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\HiranandaniLease.Entities.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Dapper.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Microsoft.Practices.Unity.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Dapper.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Dapper.xml
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Microsoft.Practices.Unity.xml
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\obj\Release\HiranandaniLease.Entities.csprojResolveAssemblyReference.cache
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\obj\Release\HiranandaniLease.Entities.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\obj\Release\HiranandaniLease.Entities.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Entities\obj\Release\HiranandaniLease.Entities.pdb

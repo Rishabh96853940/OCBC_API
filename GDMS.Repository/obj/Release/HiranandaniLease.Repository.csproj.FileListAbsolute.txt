@@ -1,0 +1,13 @@
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\bin\Release\HiranandaniLease.Repository.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\bin\Release\HiranandaniLease.Repository.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\bin\Release\Dapper.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\bin\Release\HiranandaniLease.Entities.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\bin\Release\HiranandaniLease.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\bin\Release\HiranandaniLease.Entities.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\bin\Release\HiranandaniLease.Repository.Interfaces.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\bin\Release\Dapper.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\bin\Release\Dapper.xml
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\obj\Release\HiranandaniLease.Repository.csprojResolveAssemblyReference.cache
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\obj\Release\HiranandaniLease.Repository.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\obj\Release\HiranandaniLease.Repository.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository\obj\Release\HiranandaniLease.Repository.pdb

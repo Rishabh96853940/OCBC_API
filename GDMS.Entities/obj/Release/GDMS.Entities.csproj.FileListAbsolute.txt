@@ -1,0 +1,220 @@
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csprojAssemblyReference.cache
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+E:\ww\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+E:\ww\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csprojAssemblyReference.cache
+E:\ww\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+E:\ww\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+E:\ww\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+E:\ww\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csprojAssemblyReference.cache
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+D:\Application\API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\Application\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csprojAssemblyReference.cache
+D:\Application\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+D:\Application\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+D:\Application\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+D:\Application\API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csprojAssemblyReference.cache
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csprojAssemblyReference.cache
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csprojAssemblyReference.cache
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.AssemblyReference.cache
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.AssemblyReference.cache
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.AssemblyReference.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csprojAssemblyReference.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\GDMS.Entities.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Dapper.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Dapper.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Dapper.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csprojAssemblyReference.cache
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.csproj.CopyComplete
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Entities\obj\Release\GDMS.Entities.pdb

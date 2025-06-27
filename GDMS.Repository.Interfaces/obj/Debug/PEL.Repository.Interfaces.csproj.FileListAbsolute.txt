@@ -1,0 +1,11 @@
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\bin\Debug\HiranandaniLease.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\bin\Debug\HiranandaniLease.Repository.Interfaces.pdb
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\obj\Debug\PEL.Repository.Interfaces.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\obj\Debug\HiranandaniLease.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\obj\Debug\HiranandaniLease.Repository.Interfaces.pdb
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\obj\Debug\PEL.Repository.Interfaces.csprojResolveAssemblyReference.cache
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository.Interfaces\bin\Debug\PEL.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository.Interfaces\bin\Debug\PEL.Repository.Interfaces.pdb
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository.Interfaces\obj\Debug\PEL.Repository.Interfaces.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository.Interfaces\obj\Debug\PEL.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository.Interfaces\obj\Debug\PEL.Repository.Interfaces.pdb

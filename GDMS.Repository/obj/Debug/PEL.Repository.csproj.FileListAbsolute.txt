@@ -1,0 +1,17 @@
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository\obj\Debug\PEL.Repository.csprojResolveAssemblyReference.cache
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository\obj\Debug\PEL.Repository.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository\obj\Debug\HiranandaniLease.Repository.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\HiranandaniLease.API\HiranandaniLease.Repository\obj\Debug\HiranandaniLease.Repository.pdb
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\obj\Debug\PEL.Repository.csprojResolveAssemblyReference.cache
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\obj\Debug\PEL.Repository.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\bin\Debug\PEL.Repository.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\bin\Debug\PEL.Repository.pdb
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\bin\Debug\Dapper.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\bin\Debug\PEL.Entities.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\bin\Debug\PEL.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\bin\Debug\PEL.Entities.pdb
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\bin\Debug\Dapper.pdb
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\bin\Debug\Dapper.xml
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\bin\Debug\PEL.Repository.Interfaces.pdb
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\obj\Debug\PEL.Repository.dll
+G:\SkyriseIT\Projects\I45NPEL\I45NPEL\PEL.API\PEL.Repository\obj\Debug\PEL.Repository.pdb

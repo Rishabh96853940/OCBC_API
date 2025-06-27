@@ -1,0 +1,77 @@
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csprojAssemblyReference.cache
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+E:\ww\API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+E:\ww\API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+E:\ww\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csprojAssemblyReference.cache
+E:\ww\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+E:\ww\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+E:\ww\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csprojAssemblyReference.cache
+D:\Application\API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\Application\API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csprojAssemblyReference.cache
+D:\Application\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Application\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\Application\API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csprojAssemblyReference.cache
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csprojAssemblyReference.cache
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csprojAssemblyReference.cache
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.AssemblyReference.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csprojAssemblyReference.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository.Interfaces\bin\Release\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csprojAssemblyReference.cache
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository.Interfaces\obj\Release\GDMS.Repository.Interfaces.pdb

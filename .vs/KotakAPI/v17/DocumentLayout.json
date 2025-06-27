@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OCBC\\OCBC_API\\OCBC_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F63E7C-765B-43B0-9E9E-9174A5EF440F}|GDMS.Entities\\Kotak.Entities.csproj|d:\\ocbc\\ocbc_api\\ocbc_api\\gdms.entities\\statusentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F63E7C-765B-43B0-9E9E-9174A5EF440F}|GDMS.Entities\\Kotak.Entities.csproj|solutionrelative:gdms.entities\\statusentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E504C-0F3B-450E-977D-1544A5417143}|GDMS.WebAPI\\Kotak.WebAPI.csproj|d:\\ocbc\\ocbc_api\\ocbc_api\\gdms.webapi\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E504C-0F3B-450E-977D-1544A5417143}|GDMS.WebAPI\\Kotak.WebAPI.csproj|solutionrelative:gdms.webapi\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7372A94-0A60-47B1-BC9A-ADE1FED27DE2}|GDMS.Repository\\Kotak.Repository.csproj|d:\\ocbc\\ocbc_api\\ocbc_api\\gdms.repository\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7372A94-0A60-47B1-BC9A-ADE1FED27DE2}|GDMS.Repository\\Kotak.Repository.csproj|solutionrelative:gdms.repository\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E504C-0F3B-450E-977D-1544A5417143}|GDMS.WebAPI\\Kotak.WebAPI.csproj|D:\\OCBC\\OCBC_API\\OCBC_API\\gdms.webapi\\controllers\\inventorydonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E504C-0F3B-450E-977D-1544A5417143}|GDMS.WebAPI\\Kotak.WebAPI.csproj|solutionrelative:gdms.webapi\\controllers\\inventorydonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F63E7C-765B-43B0-9E9E-9174A5EF440F}|GDMS.Entities\\Kotak.Entities.csproj|d:\\ocbc\\ocbc_api\\ocbc_api\\gdms.entities\\inventoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F63E7C-765B-43B0-9E9E-9174A5EF440F}|GDMS.Entities\\Kotak.Entities.csproj|solutionrelative:gdms.entities\\inventoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08229FC-5DF9-4221-BE3C-1019DD39BC48}|GDMS.Repository.Interfaces\\Kotak.Repository.Interfaces.csproj|d:\\ocbc\\ocbc_api\\ocbc_api\\gdms.repository.interfaces\\istatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08229FC-5DF9-4221-BE3C-1019DD39BC48}|GDMS.Repository.Interfaces\\Kotak.Repository.Interfaces.csproj|solutionrelative:gdms.repository.interfaces\\istatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7372A94-0A60-47B1-BC9A-ADE1FED27DE2}|GDMS.Repository\\Kotak.Repository.csproj|d:\\ocbc\\ocbc_api\\ocbc_api\\gdms.repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7372A94-0A60-47B1-BC9A-ADE1FED27DE2}|GDMS.Repository\\Kotak.Repository.csproj|solutionrelative:gdms.repository\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08229FC-5DF9-4221-BE3C-1019DD39BC48}|GDMS.Repository.Interfaces\\Kotak.Repository.Interfaces.csproj|d:\\ocbc\\ocbc_api\\ocbc_api\\gdms.repository.interfaces\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08229FC-5DF9-4221-BE3C-1019DD39BC48}|GDMS.Repository.Interfaces\\Kotak.Repository.Interfaces.csproj|solutionrelative:gdms.repository.interfaces\\iinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryDoneController.cs",
+              "DocumentMoniker": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.WebAPI\\Controllers\\InventoryDoneController.cs",
+              "RelativeDocumentMoniker": "GDMS.WebAPI\\Controllers\\InventoryDoneController.cs",
+              "ToolTip": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.WebAPI\\Controllers\\InventoryDoneController.cs",
+              "RelativeToolTip": "GDMS.WebAPI\\Controllers\\InventoryDoneController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:06:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStatus.cs",
+              "DocumentMoniker": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Repository.Interfaces\\IStatus.cs",
+              "RelativeDocumentMoniker": "GDMS.Repository.Interfaces\\IStatus.cs",
+              "ToolTip": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Repository.Interfaces\\IStatus.cs",
+              "RelativeToolTip": "GDMS.Repository.Interfaces\\IStatus.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA6wDEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:11:02.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Iinventory.cs",
+              "DocumentMoniker": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Repository.Interfaces\\Iinventory.cs",
+              "RelativeDocumentMoniker": "GDMS.Repository.Interfaces\\Iinventory.cs",
+              "ToolTip": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Repository.Interfaces\\Iinventory.cs",
+              "RelativeToolTip": "GDMS.Repository.Interfaces\\Iinventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:10:56.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Repository\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "GDMS.Repository\\InventoryRepository.cs",
+              "ToolTip": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Repository\\InventoryRepository.cs",
+              "RelativeToolTip": "GDMS.Repository\\InventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:08:26.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusRepository.cs",
+              "DocumentMoniker": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Repository\\StatusRepository.cs",
+              "RelativeDocumentMoniker": "GDMS.Repository\\StatusRepository.cs",
+              "ToolTip": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Repository\\StatusRepository.cs",
+              "RelativeToolTip": "GDMS.Repository\\StatusRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:08:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusEntity.cs",
+              "DocumentMoniker": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Entities\\StatusEntity.cs",
+              "RelativeDocumentMoniker": "GDMS.Entities\\StatusEntity.cs",
+              "ToolTip": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Entities\\StatusEntity.cs",
+              "RelativeToolTip": "GDMS.Entities\\StatusEntity.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAA7wIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:03:41.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.WebAPI\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "GDMS.WebAPI\\Controllers\\StatusController.cs",
+              "ToolTip": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.WebAPI\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "GDMS.WebAPI\\Controllers\\StatusController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:11:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryEntity.cs",
+              "DocumentMoniker": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Entities\\InventoryEntity.cs",
+              "RelativeDocumentMoniker": "GDMS.Entities\\InventoryEntity.cs",
+              "ToolTip": "D:\\OCBC\\OCBC_API\\OCBC_API\\GDMS.Entities\\InventoryEntity.cs",
+              "RelativeToolTip": "GDMS.Entities\\InventoryEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:03:23.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

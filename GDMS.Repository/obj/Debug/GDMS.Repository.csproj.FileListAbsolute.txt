@@ -1,0 +1,352 @@
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\bin\Debug\PEL.Repository.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\bin\Debug\PEL.Repository.pdb
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\bin\Debug\Dapper.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\bin\Debug\PEL.Entities.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\bin\Debug\PEL.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\bin\Debug\PEL.Entities.pdb
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\bin\Debug\Dapper.pdb
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\bin\Debug\Dapper.xml
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\bin\Debug\PEL.Repository.Interfaces.pdb
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\obj\Debug\GDMS.Repository.csprojResolveAssemblyReference.cache
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\obj\Debug\PEL.Repository.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\PEL.Repository\obj\Debug\PEL.Repository.pdb
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojResolveAssemblyReference.cache
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+G:\SkyriseIT\Projects\Rajeshwar_Projects\Rajesh__\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+E:\Share\Application\AngularApplication\Kshama\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Application\14April2020\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+E:\ww\API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+E:\ww\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+E:\ww\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+E:\ww\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+E:\ww\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+E:\ww\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Application\14April2020\API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+F:\HP - Office\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+D:\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\Application\API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Application\API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Application\API\18-Feb-2020\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\Application\API\18-Feb-2020\Cloud-API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.AssemblyReference.cache
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+C:\Application\API\18-Feb-2020\Cloud-API - Estorage\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.AssemblyReference.cache
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+C:\Application\API\18-Feb-2020\JanaBank\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.AssemblyReference.cache
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+C:\Application\API\18-Feb-2020\JanaBank_Unsecured\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\APPLICATION\API\GDMS.API\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\Dapper.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Entities.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.Core.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\AWSSDK.S3.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\Dapper.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\Dapper.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\Echovoice.JSON.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\GDMS.Repository.Interfaces.pdb
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\itextsharp.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csprojAssemblyReference.cache
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CoreCompileInputs.cache
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.csproj.CopyComplete
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.dll
+D:\APPLICATION\API\GDMS.API - JB Retrival\GDMS.API\GDMS.Repository\obj\Debug\GDMS.Repository.pdb

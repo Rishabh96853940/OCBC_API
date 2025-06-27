@@ -1,0 +1,5 @@
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\bin\Debug\HiranandaniLease.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\bin\Debug\HiranandaniLease.Repository.Interfaces.pdb
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\obj\Debug\HiranandaniLease.Repository.Interfaces.csproj.CoreCompileInputs.cache
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\obj\Debug\HiranandaniLease.Repository.Interfaces.dll
+G:\SkyriseIT\Projects\Hiranandani\NewHiranandani\HiranandaniLease.API\HiranandaniLease.Repository.Interfaces\obj\Debug\HiranandaniLease.Repository.Interfaces.pdb
